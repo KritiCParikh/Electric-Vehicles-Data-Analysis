@@ -19,6 +19,9 @@ This project analyzes electric vehicle (EV) data using Tableau, focusing on Batt
 ## Data Source
 https://www.kaggle.com/datasets/ratikkakkar/electric-vehicle-population-data/code
 
+## Contributor
+Vedanth Sirimalla (@VedSirimalla)
+
 References: Data Tutorials
 
 Thank You. Let’s keep learning and growing together!  
